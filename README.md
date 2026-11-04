@@ -4,6 +4,8 @@ Chemistry calculations practice for Year 11 students heading into Year 12: moles
 
 Each section opens with a worked example that appears one step at a time, has one interactive, and then gives endless practice questions with fresh numbers at three levels: Core, Apply and Year 12 ready. Calculations take typed answers (accepted within 1%; very large or small numbers go in two boxes, the number and the power of ten); a recognisable slip, such as an upside-down division or a missed bracket, gets its own feedback. Concept questions are multiple choice, with an explanation for every option.
 
+**Live:** https://interactives.diocesan.school.nz/mole-calculations-lab/
+
 ## Sections
 
 | Section | Status | Interactive |
